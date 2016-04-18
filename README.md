@@ -33,10 +33,10 @@
 	* 	[Lua模块热更新原理](https://github.com/lichuang/Lua-Source-Internal/blob/master/doc/ch06-%E7%83%AD%E6%9B%B4%E6%96%B0.md)
 	*	[闭包]
 	
-* 第七章 [Lua调试器](https://github.com/lichuang/Lua-Source-Internal/blob/master/doc/ch07-%E8%B0%83%E8%AF%95%E5%99%A8.md)
+* 第七章 [Lua调试器](https://github.com/lichuang/Lua-Source-Internal/blob/master/doc/ch07-%E8%B0%83%E8%AF%95%E5%99%A8.md)(100%)
 	
 * 第八章 [Lua GC](https://github.com/lichuang/Lua-Source-Internal/blob/master/doc/ch08-GC.md)
 
 * 第九章 杂项
-	* [异常处理](https://github.com/lichuang/Lua-Source-Internal/blob/master/doc/ch09-%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md)
-	* [协程](https://github.com/lichuang/Lua-Source-Internal/blob/master/doc/ch09-%E5%8D%8F%E7%A8%8B.md)
+	* [异常处理](https://github.com/lichuang/Lua-Source-Internal/blob/master/doc/ch09-%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md)(100%)
+	* [协程](https://github.com/lichuang/Lua-Source-Internal/blob/master/doc/ch09-%E5%8D%8F%E7%A8%8B.md) (100%)
